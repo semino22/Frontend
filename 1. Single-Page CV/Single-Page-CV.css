@@ -3,3 +3,12 @@
 body {
     font-family:'Delius', Courier, monospace;
 }
+hr {
+    border: 2px black solid;
+}
+p {
+    color: rgb(6, 173, 6);
+}
+span {
+    color: rgb(69, 126, 211);
+}
