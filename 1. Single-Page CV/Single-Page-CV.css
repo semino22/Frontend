@@ -2,13 +2,23 @@
 
 body {
     font-family:'Delius', Courier, monospace;
+    padding: 50px;
 }
 hr {
-    border: 2px black solid;
+    border: 1px black solid;
+    width: 500px;
+    margin-left: 0;
+    margin-top: 0px;
 }
-p {
+section {
+    margin-right: 30px;
+}
+p .highlight {
     color: rgb(6, 173, 6);
 }
 span {
     color: rgb(69, 126, 211);
+}
+ul {
+    padding-left: 20px;
 }
